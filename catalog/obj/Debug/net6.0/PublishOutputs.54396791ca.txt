@@ -1,6 +1,11 @@
 /home/nikhil/Documents/azure/catalog/publish/catalog
+/home/nikhil/Documents/azure/catalog/publish/publish/web.config
 /home/nikhil/Documents/azure/catalog/publish/appsettings.Development.json
 /home/nikhil/Documents/azure/catalog/publish/appsettings.json
+/home/nikhil/Documents/azure/catalog/publish/publish/appsettings.Development.json
+/home/nikhil/Documents/azure/catalog/publish/publish/appsettings.json
+/home/nikhil/Documents/azure/catalog/publish/publish/catalog.deps.json
+/home/nikhil/Documents/azure/catalog/publish/publish/catalog.runtimeconfig.json
 /home/nikhil/Documents/azure/catalog/publish/catalog.dll
 /home/nikhil/Documents/azure/catalog/publish/catalog.runtimeconfig.json
 /home/nikhil/Documents/azure/catalog/publish/catalog.pdb

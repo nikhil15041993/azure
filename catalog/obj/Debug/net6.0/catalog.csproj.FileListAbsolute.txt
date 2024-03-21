@@ -864,3 +864,8 @@ C:/tech/AZCourse/Update_2307/catalog/obj/Debug/net6.0/ref/catalog.dll
 /home/nikhil/Documents/azure/catalog/obj/Debug/net6.0/ref/catalog.dll
 /home/nikhil/Documents/azure/catalog/obj/Debug/net6.0/catalog.pdb
 /home/nikhil/Documents/azure/catalog/obj/Debug/net6.0/catalog.genruntimeconfig.cache
+/home/nikhil/Documents/azure/catalog/bin/Debug/net6.0/publish/web.config
+/home/nikhil/Documents/azure/catalog/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/nikhil/Documents/azure/catalog/bin/Debug/net6.0/publish/appsettings.json
+/home/nikhil/Documents/azure/catalog/bin/Debug/net6.0/publish/catalog.deps.json
+/home/nikhil/Documents/azure/catalog/bin/Debug/net6.0/publish/catalog.runtimeconfig.json
