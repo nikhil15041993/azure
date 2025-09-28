@@ -1,0 +1,4 @@
+ARM template deployment command
+===============================
+
+az deployment group create --resource-group optimized-vm-rg --template-file template.json --parameters parameters.json
